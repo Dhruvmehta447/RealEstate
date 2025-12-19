@@ -14,8 +14,8 @@ https://real-estate-alpha-roan-14.vercel.app/
 
 ### 1. Landing Page
 The landing page dynamically fetches content from the backend to ensure data is always up-to-date.
-* **"Our Projects" Section:** Displays a list of projects fetched from the database (includes Image, Name, and Description).
-* **"Happy Clients" Section:** Showcases client testimonials (includes Image, Name, Description, and Designation).
+* **Our Projects Section:** Displays a list of projects fetched from the database (includes Image, Name, and Description).
+* **Happy Clients Section:** Showcases client testimonials (includes Image, Name, Description, and Designation).
 * **Contact Form:** Allows users to submit inquiries (Fields: Full Name, Email, Mobile Number, City).
 * **Newsletter Subscription:** Simple input field to capture email addresses for the mailing list.
 
